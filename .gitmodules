@@ -1,0 +1,6 @@
+[submodule "src/Plugins/Nop.Plugin.Payments.PaySpot"]
+	path = src/Plugins/Nop.Plugin.Payments.PaySpot
+	url = https://github.com/BUS-Computers/nopPaySpot
+[submodule "src/Plugins/Nop.Plugin.Misc.BusSync"]
+	path = src/Plugins/Nop.Plugin.Misc.BusSync
+	url = https://github.com/BUS-Computers/BusSync
